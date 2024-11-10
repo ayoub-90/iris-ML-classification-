@@ -1,0 +1,7 @@
+# This is a simple requirement.txt file
+# It lists all dependencies for the project
+
+pandas == 2.2.2
+matplotlib == 3.9.2
+seaborn == 0.13.2
+scikit-learn == 1.5.2
